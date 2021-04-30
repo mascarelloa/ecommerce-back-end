@@ -6,7 +6,7 @@
   ## Description 
   This is a backend database that simulates an e-commerce datebase. It is comprised of products, product categories, and product tags and uses CRUD operations to create/post, read/get, update/put, and delete items. This program was built with Node.js, MySQL/Sequelize, and tested using Insomnia. 
 
-  View the live application [here](https://github.com/mascarelloa/ecommerce-back-end).
+  View the live application here: [Part 1](https://drive.google.com/file/d/1LHRXBI2RPQmaeMKVFfCPFEdx8IR5y_9A/view) and [Part 2](https://drive.google.com/file/d/1B-RtUsEuSGEdVIauzVMKR64vjRReDm35/view)
 
   ## Table of Contents
   * [Installation](#Installation)
